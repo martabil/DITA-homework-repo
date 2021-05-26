@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="a_longboarding" path="TOPICS/c_longboarding.html"/>
+   <appContext helpID="c_most_popular_brands" path="TOPICS/c_most_popular_brands.html"/>
+   <appContext helpID="c_types_of_longboards" path="TOPICS/c_types_of_longboards.html"/>
+   <appContext helpID="t_how_to_choose_the_right_longboard"
+               path="TOPICS/t_how_to_choose_the_right_longboard.html"/>
+   <appContext helpID="c_types_of_riding" path="TOPICS/c_styles_of_riding.html"/>
+   <appContext helpID="t_how_to_ride_a_longboard"
+               path="TOPICS/t_how_to_ride_a_longboard.html"/>
+   <appContext helpID="c_protective_gear" path="TOPICS/c_protective_gear.html"/>
+   <appContext helpID="c_longboard_events_and_tournaments"
+               path="TOPICS/c_longboard_events_and_tournaments.html"/>
+   <appContext helpID="c_girls_on_longboards" path="TOPICS/c_girls_on_longboards.html"/>
+   <appContext helpID="r_longboarding_vs_skateboarding"
+               path="TOPICS/r_longboarding_vs_skateboarding.html"/>
+</map>
